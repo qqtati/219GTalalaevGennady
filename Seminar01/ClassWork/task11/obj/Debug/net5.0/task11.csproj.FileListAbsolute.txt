@@ -1,0 +1,15 @@
+/Users/qqtati/RiderProjects/Seminar1/task11/bin/Debug/net5.0/task11.deps.json
+/Users/qqtati/RiderProjects/Seminar1/task11/bin/Debug/net5.0/task11.runtimeconfig.json
+/Users/qqtati/RiderProjects/Seminar1/task11/bin/Debug/net5.0/task11.runtimeconfig.dev.json
+/Users/qqtati/RiderProjects/Seminar1/task11/bin/Debug/net5.0/task11.dll
+/Users/qqtati/RiderProjects/Seminar1/task11/bin/Debug/net5.0/ref/task11.dll
+/Users/qqtati/RiderProjects/Seminar1/task11/bin/Debug/net5.0/task11.pdb
+/Users/qqtati/RiderProjects/Seminar1/task11/obj/Debug/net5.0/task11.csproj.AssemblyReference.cache
+/Users/qqtati/RiderProjects/Seminar1/task11/obj/Debug/net5.0/task11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qqtati/RiderProjects/Seminar1/task11/obj/Debug/net5.0/task11.AssemblyInfoInputs.cache
+/Users/qqtati/RiderProjects/Seminar1/task11/obj/Debug/net5.0/task11.AssemblyInfo.cs
+/Users/qqtati/RiderProjects/Seminar1/task11/obj/Debug/net5.0/task11.csproj.CoreCompileInputs.cache
+/Users/qqtati/RiderProjects/Seminar1/task11/obj/Debug/net5.0/task11.dll
+/Users/qqtati/RiderProjects/Seminar1/task11/obj/Debug/net5.0/ref/task11.dll
+/Users/qqtati/RiderProjects/Seminar1/task11/obj/Debug/net5.0/task11.pdb
+/Users/qqtati/RiderProjects/Seminar1/task11/obj/Debug/net5.0/task11.genruntimeconfig.cache

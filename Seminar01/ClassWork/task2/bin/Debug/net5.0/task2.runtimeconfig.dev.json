@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/qqtati/.dotnet/store/|arch|/|tfm|",
+      "/Users/qqtati/.nuget/packages"
+    ]
+  }
+}
