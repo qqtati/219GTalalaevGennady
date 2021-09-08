@@ -1,0 +1,15 @@
+/Users/qqtati/RiderProjects/Homework/task05/bin/Debug/net5.0/task05.deps.json
+/Users/qqtati/RiderProjects/Homework/task05/bin/Debug/net5.0/task05.runtimeconfig.json
+/Users/qqtati/RiderProjects/Homework/task05/bin/Debug/net5.0/task05.runtimeconfig.dev.json
+/Users/qqtati/RiderProjects/Homework/task05/bin/Debug/net5.0/task05.dll
+/Users/qqtati/RiderProjects/Homework/task05/bin/Debug/net5.0/ref/task05.dll
+/Users/qqtati/RiderProjects/Homework/task05/bin/Debug/net5.0/task05.pdb
+/Users/qqtati/RiderProjects/Homework/task05/obj/Debug/net5.0/task05.csproj.AssemblyReference.cache
+/Users/qqtati/RiderProjects/Homework/task05/obj/Debug/net5.0/task05.GeneratedMSBuildEditorConfig.editorconfig
+/Users/qqtati/RiderProjects/Homework/task05/obj/Debug/net5.0/task05.AssemblyInfoInputs.cache
+/Users/qqtati/RiderProjects/Homework/task05/obj/Debug/net5.0/task05.AssemblyInfo.cs
+/Users/qqtati/RiderProjects/Homework/task05/obj/Debug/net5.0/task05.csproj.CoreCompileInputs.cache
+/Users/qqtati/RiderProjects/Homework/task05/obj/Debug/net5.0/task05.dll
+/Users/qqtati/RiderProjects/Homework/task05/obj/Debug/net5.0/ref/task05.dll
+/Users/qqtati/RiderProjects/Homework/task05/obj/Debug/net5.0/task05.pdb
+/Users/qqtati/RiderProjects/Homework/task05/obj/Debug/net5.0/task05.genruntimeconfig.cache
